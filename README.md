@@ -11,7 +11,7 @@ About Me:
 - 🤔 I’m looking for help with new cybersecurity project ideas that we could work on. Feel free to dm!
 - 💬 Ask me about anything that is within my area of expertise( such as Full stack and Cybersecurity)
 - 📫 How to reach me: Through LinkedIn and Github. Also working on my Portfolio so you can contact me through that after I'm completed :D
-- ⚡ Fun fact: Love Blue sided of Cybersecurity, and coding! Hate: Momordica charantia 😂
+- ⚡ Fun fact: Love blue side of Cybersecurity, and coding! Hate: Momordica charantia 😂
 
 ## Social
 ### <h3 align="left">Connect with me:</h3>
@@ -42,7 +42,11 @@ About Me:
 <!--VS Code icon-->
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="linux" width="40" height="40"/> </a> 
 
-  ## MY CODING STATS
+  ## My Projects:
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JJ-hacks&repo=College-University-Management-System&show_owner&theme=ambient_gradient&border_color=FF0000)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JJ-hacks&repo=Cognifyz-Internship-WebDev&show_owner&theme=ambient_gradient&border_color=FF0000)
+ 
+  ## MY CODING STATS:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JJ-hacks&show_icons=true&theme=blue-green&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJ-hacks&layout=donut&langs_count=8&theme=neon)
 <!-- I'm still working on the gist, this is just a copypasta code for syntax usage, check the guides on how to use gist, ect!
